@@ -6,6 +6,7 @@ Library | Description
 -------- | -------------
 [LightOpenID](https://gitorious.org/lightopenid) | Contain LightOpenID. Solid OpenID library licensed under the MIT License.
 [OAuth Library](https://code.google.com/p/oauth/) | Contain OAuth Library licensed under the MIT License.
+[PHP-JWT](https://github.com/firebase/php-jwt) | Contain PHP-JWT library. Licensed under BSD 3 Clause.
 
 Notes: 
 
